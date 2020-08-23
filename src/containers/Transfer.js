@@ -39,8 +39,8 @@ function arrayModifier(arr, arr1, operation) {
 }
 
 // created placeholder while drag and drop in target list
-let placeholder = document.createElement("li");
-placeholder.className = "placeholder";
+// let placeholder = document.createElement("li");
+// placeholder.className = "placeholder";
 
 class Transfer extends PureComponent {
   constructor(props) {
